@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
+<!-- profile-3d-contrib -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/shunhua/shunhua/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=shunhua&theme=xcode" />
 </div>
