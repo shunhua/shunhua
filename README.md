@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on :cn: China Shanghai .
 - 🌐 This is my [blog](https://baishunhua.com/) website.
 
+<!-- 贪吃蛇代码贡献图 -->
+<div><img src="https://cdn.jsdelivr.net/gh/shunhua/shunhua/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shunhua&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <img pic_type="0" class="BDE_Image" src="https://imgsa.baidu.com/forum/w%3D580/sign=ab120fdb1c950a7b75354ecc3ad0625c/cbdf0f7b02087bf4edcb0304f3d3572c10dfcf87.jpg" pic_ext="gif" height="187" width="333">
 <!--
