@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=shunhua&theme=xcode" />
+</div>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shunhua/count.svg" />
