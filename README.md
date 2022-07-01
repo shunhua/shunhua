@@ -1,6 +1,6 @@
 ###  👋 Ay up!  I'm Shunhua. This is my Github space, and...what can i say ? 
 - 🔭 I’m currently working on <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20> China Shanghai .  🌐 This is my [blog](https://baishunhua.com/) website. 
-<img src="https://user-images.githubusercontent.com/11988030/176830862-f19d253b-1caa-448b-bdeb-f69329510eb7.png" width=825 height=260>
+<img src="https://user-images.githubusercontent.com/11988030/176830862-f19d253b-1caa-448b-bdeb-f69329510eb7.png" width=825 height=230>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div><img src="https://cdn.jsdelivr.net/gh/shunhua/shunhua/contribution-snake/github-contribution-grid-snake.svg" /></div>
