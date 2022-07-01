@@ -1,6 +1,7 @@
 ###  👋 Ay up!  I'm Shunhua. This is my Github space, and...what can i say ? 
 - 🔭 I’m currently working on <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20> China Shanghai .
-- 🌐 This is my [blog](https://baishunhua.com/) website.
+- 🌐 This is my [blog](https://baishunhua.com/) website. 
+<img src="https://user-images.githubusercontent.com/11988030/176830862-f19d253b-1caa-448b-bdeb-f69329510eb7.png" height=200>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div><img src="https://cdn.jsdelivr.net/gh/shunhua/shunhua/contribution-snake/github-contribution-grid-snake.svg" /></div>
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-### [:watermelon:](#watermelon) Programming Languages  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;">
+### [:watermelon:](#watermelon) Programming Languages  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"> 
 
 - 🌱 like / used 
 
